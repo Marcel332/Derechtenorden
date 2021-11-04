@@ -1,0 +1,18 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.main-header-container {
+    background: #ffffff
+}
+
+
+.main-header {
+    width: 960px;
+    padding: 20px;
+    margin: 0 auto;
+    background: #999; 
+}
